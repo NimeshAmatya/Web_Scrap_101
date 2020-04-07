@@ -2,7 +2,7 @@
     scrap imdb top movies
 
 ## Install
-    `git https://github.com/NimeshAmatya/Web_Scrap_101.git`
+    `git clone https://github.com/NimeshAmatya/Web_Scrap_101.git`
 
     `cd Web_Scrap_101`
 
